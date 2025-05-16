@@ -11,4 +11,8 @@ import { HeaderComponent } from "./shared/component/header/header.component";
 })
 export class AppComponent {
   title = 'ecommerce-ui';
+
+  constructor() {
+
+  }
 }
